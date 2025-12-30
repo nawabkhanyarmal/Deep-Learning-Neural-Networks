@@ -47,13 +47,12 @@ The projects demonstrate the **end-to-end deep learning workflow**, from data pr
 ---
 
 ## 📂 Repository Structure
-📁 data # Raw and preprocessed datasets (images, text, etc.)
-📁 notebooks # Jupyter notebooks for each DL project
-📁 models # Saved trained models (.h5, .pt, .pkl, .joblib)
-📁 results # Plots, attention maps, loss curves, generated outputs
-📄 README.md # Project documentation
-📄 requirements.txt # Python libraries required to run all projects
-
+📁 data       # Raw and preprocessed datasets (images, text, etc.)  
+📁 notebooks  # Jupyter notebooks for each DL project  
+📁 models     # Saved trained models (.h5, .pt, .pkl, .joblib)  
+📁 results    # Plots, attention maps, loss curves, generated outputs  
+📄 README.md  # Project documentation  
+📄 requirements.txt  # Python libraries required to run all projects  
 
 
 ---
@@ -75,42 +74,41 @@ The projects demonstrate the **end-to-end deep learning workflow**, from data pr
 5. Open and run the notebooks from the notebooks folder.
 
 📊 Sample Outputs
-Training and validation loss/accuracy curves
+   Training and validation loss/accuracy curves
 
-Confusion matrices for classification tasks
+   Confusion matrices for classification tasks
 
-Attention maps for Transformers
+   Attention maps for Transformers
 
-Generated images from GANs and Autoencoders
+   Generated images from GANs and Autoencoders
 
-Feature maps from CNN layers
+   Feature maps from CNN layers
 
 📈 Learning Outcomes
-Through these projects, I gained hands-on experience in:
+   Through these projects, I gained hands-on experience in:
 
-Designing, training, and evaluating deep learning models
+   Designing, training, and evaluating deep learning models
 
-Working with complex image and text datasets
+   Working with complex image and text datasets
 
-Applying state-of-the-art architectures like GANs and Transformers
+   Applying state-of-the-art architectures like GANs and Transformers
 
-Visualizing model internals for better understanding
+   Visualizing model internals for better understanding
 
 🚀 Future Improvements
-Optimize models for faster training and inference
+   Optimize models for faster training and inference
 
-Experiment with newer architectures (Swin Transformers, Diffusion models)
+   Experiment with newer architectures (Swin Transformers, Diffusion models)
 
-Deploy models in web or mobile applications
+   Deploy models in web or mobile applications
 
-Integrate multimodal learning (images + text)
+   Integrate multimodal learning (images + text)
 
 👤 Author
-Nawab Khan
-Computer Science Student | Deep Learning & AI Enthusiast
+   Nawab Khan
+   Computer Science Student | Deep Learning & AI Enthusiast
 
 📄 License
-This project is licensed under the MIT License.
+   This project is licensed under the MIT License.
 
-yaml
-Copy code
+
