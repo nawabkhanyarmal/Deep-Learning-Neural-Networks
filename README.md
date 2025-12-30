@@ -104,11 +104,10 @@ The projects demonstrate the **end-to-end deep learning workflow**, from data pr
 
    Integrate multimodal learning (images + text)
 
-👤 Author
-   Nawab Khan
-   Computer Science Student | Deep Learning & AI Enthusiast
+👤 Author Nawab Khan
+Computer Scientist | AI & CyberSecurity Enthusiast
 
 📄 License
-   This project is licensed under the MIT License.
+ This project is licensed under the MIT License.
 
 
