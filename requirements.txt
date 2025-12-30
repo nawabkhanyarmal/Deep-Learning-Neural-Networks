@@ -1,0 +1,47 @@
+# Data manipulation & analysis
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+plotly-express
+
+# Statistical analysis & hypothesis testing
+scipy
+statsmodels
+
+# Machine Learning (Supervised & Unsupervised)
+scikit-learn
+imbalanced-learn
+category_encoders
+
+# Model saving/loading
+pickle
+joblib
+
+# Jupyter Notebook
+jupyter
+notebook
+ipython
+tqdm
+
+# Deep Learning / Neural Networks
+tensorflow
+keras
+torch
+torchvision
+torchtext
+
+# NLP / Transformers
+nltk
+spacy
+gensim
+transformers
+sentence-transformers
+
+# GANs / VAE / advanced architectures
+torchgan
+tensorflow-addons
+torchmetrics
